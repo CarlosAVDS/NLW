@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-Projeto contruido do evento Next Level Week da Rocketseat.
+Projeto construido do evento Next Level Week da Rocketseat.
 
 [Clique aqui para acessar](https://carlosavds.github.io/NLW-eSports-explorer/) 
 
